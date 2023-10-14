@@ -1,0 +1,274 @@
+[
+  {
+    "Title": "Spectre",
+    "Director": "Sam Mendes",
+    "Genre": "Action",
+    "Lead_Star": "Daniel Craig",
+    "IMDb_Rating": 7.3,
+    "id": 1
+  },
+  {
+    "Title": "The Martian",
+    "Director": "Ridley Scott",
+    "Genre": "Action",
+    "Lead_Star": "Matt Damon",
+    "IMDb_Rating": 8.2,
+    "id": 2
+  },
+  {
+    "Title": "The Godfather",
+    "Director": "Francis Ford Copolla",
+    "Genre": "Drama",
+    "Lead_Star": "Marlon Brando",
+    "IMDb_Rating": 9.2,
+    "id": 3
+  },
+  {
+    "Title": "Blade Runner",
+    "Director": "Ridley Scott",
+    "Genre": "Sci-Fi",
+    "Lead_Star": "Harrison Ford",
+    "IMDb_Rating": 8.2,
+    "id": 4
+  },
+  {
+    "Title": "Alien",
+    "Director": "Ridley Scott",
+    "Genre": "Sci-Fi",
+    "Lead_Star": "Sigourney Weaver",
+    "IMDb_Rating": 8.5,
+    "id": 5
+  },
+  {
+    "Title": "Apocalypse Now",
+    "Director": "Francis Ford Copolla",
+    "Genre": "Drama",
+    "Lead_Star": "Martin Sheen ",
+    "IMDb_Rating": 8.5,
+    "id": 6
+  },
+  {
+    "Title": "American Beauty",
+    "Director": "Sam Mendes",
+    "Genre": "Drama",
+    "Lead_Star": "Kevin Spacey",
+    "IMDb_Rating": 8.4,
+    "id": 7
+  },
+  {
+    "Title": "Skyfall",
+    "Director": "Sam Mendes",
+    "Genre": "Action",
+    "Lead_Star": "Daniel Craig",
+    "IMDb_Rating": 7.8,
+    "id": 8
+  },
+  {
+    "Title": "The Gift",
+    "Director": "Joel Edgerton",
+    "Genre": "Thriller",
+    "Lead_Star": "Jason Bateman",
+    "IMDb_Rating": 7.2,
+    "id": 9
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Director": "Joel Edgerton",
+    "Genre": "Drama",
+    "Lead_Star": "Leonardo DiCaprio",
+    "IMDb_Rating": 7.3,
+    "id": 10
+  },
+  {
+    "Title": "Bridge of Spies",
+    "Director": "Steven Spielberg",
+    "Genre": "Drama",
+    "Lead_Star": "Tom Hanks",
+    "IMDb_Rating": 8.2,
+    "id": 11
+  },
+  {
+    "Title": "Steve Jobs",
+    "Director": "Danny Boyle",
+    "Genre": "Drama",
+    "Lead_Star": "Michael Fassbender",
+    "IMDb_Rating": 7.7,
+    "id": 12
+  },
+  {
+    "Title": "Schindler's List",
+    "Director": "Steven Spielberg",
+    "Genre": "Drama",
+    "Lead_Star": "Liam Neeson",
+    "IMDb_Rating": 8.9,
+    "id": 13
+  },
+  {
+    "Title": "Slumdog Millionaire",
+    "Director": "Danny Boyle",
+    "Genre": "Drama",
+    "Lead_Star": "Dev Patel",
+    "IMDb_Rating": 8,
+    "id": 14
+  },
+  {
+    "Title": "Trainspotting",
+    "Director": "Danny Boyle",
+    "Genre": "Drama",
+    "Lead_Star": "Ewan McGregor",
+    "IMDb_Rating": 82,
+    "id": 15
+  },
+  {
+    "Title": "Saving Private Ryan",
+    "Director": "Steven Spielberg",
+    "Genre": "Action",
+    "Lead_Star": "Tom Hanks",
+    "IMDb_Rating": 8.6,
+    "id": 16
+  },
+  {
+    "Title": "Forest Gump",
+    "Director": "Robert Zemeckis",
+    "Genre": "Drama",
+    "Lead_Star": "Tom Hanks",
+    "IMDb_Rating": 8.8,
+    "id": 17
+  },
+  {
+    "Title": "Back to the Future",
+    "Director": "Robert Zemeckis",
+    "Genre": "Action",
+    "Lead_Star": "Michael J. Fox",
+    "IMDb_Rating": 8.5,
+    "id": 18
+  },
+  {
+    "Title": "Django Unchained",
+    "Director": "Quentin Tarantino",
+    "Genre": "Western",
+    "Lead_Star": "Jamie Foxx",
+    "IMDb_Rating": 8.5,
+    "id": 19
+  },
+  {
+    "Title": "Burnt",
+    "Director": "John Wells",
+    "Genre": "Comedy",
+    "Lead_Star": "Bradley Cooper",
+    "IMDb_Rating": 6.7,
+    "id": 20
+  },
+  {
+    "Title": "Cast Away",
+    "Director": "Robert Zemeckis",
+    "Genre": "Action",
+    "Lead_Star": "Tom Hanks",
+    "IMDb_Rating": 7.7,
+    "id": 21
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Director": "Quentin Tarantino",
+    "Genre": "Drama",
+    "Lead_Star": "John Travolta",
+    "IMDb_Rating": 8.9,
+    "id": 22
+  },
+  {
+    "Title": "Finding Nemo",
+    "Director": "Peter Sohn",
+    "Genre": "Animation",
+    "Lead_Star": "Albert Brooks",
+    "IMDb_Rating": 8.2,
+    "id": 23
+  },
+  {
+    "Title": "The Good Dinosaur",
+    "Director": "Peter Sohn",
+    "Genre": "Animation",
+    "Lead_Star": "Raymond Ochoa",
+    "IMDb_Rating": 7.7,
+    "id": 24
+  },
+  {
+    "Title": "Catch Me If You Can",
+    "Director": "Steven Spielberg",
+    "Genre": "Biography",
+    "Lead_Star": "Leonardo DiCaprio",
+    "IMDb_Rating": 8,
+    "id": 25
+  },
+  {
+    "Title": "A.I. Artificial Intelligence",
+    "Director": "Steven Spielberg",
+    "Genre": "Adventure",
+    "Lead_Star": "Haley Joel Osment",
+    "IMDb_Rating": 7.1,
+    "id": 26
+  },
+  {
+    "Title": "Raiders of the Lost Ark",
+    "Director": "Steven Spielberg",
+    "Genre": "Action ",
+    "Lead_Star": "Harrison Ford",
+    "IMDb_Rating": 8.5,
+    "id": 27
+  },
+  {
+    "Title": "Real Steel",
+    "Director": "Shawn Levy",
+    "Genre": "Action",
+    "Lead_Star": "Hugh Jackman",
+    "IMDb_Rating": 7.1,
+    "id": 28
+  },
+  {
+    "Title": "Prometheus",
+    "Director": "Ridley Scott",
+    "Genre": "Adventure",
+    "Lead_Star": "Noomi Rapace",
+    "IMDb_Rating": 7,
+    "id": 29
+  },
+  {
+    "Title": "Black Hawk Down",
+    "Director": "Ridley Scott",
+    "Genre": "Drama",
+    "Lead_Star": "Josh Harnett",
+    "IMDb_Rating": 7.7,
+    "id": 30
+  },
+  {
+    "Title": "Road to Perdition",
+    "Director": "Sam Mendes",
+    "Genre": "Crime",
+    "Lead_Star": "Tom Hanks",
+    "IMDb_Rating": 7.7,
+    "id": 31
+  },
+  {
+    "Title": "Revolutionary Road",
+    "Director": "Sam Mendes",
+    "Genre": "Drama",
+    "Lead_Star": "Leonardo DiCaprio",
+    "IMDb_Rating": 7.3,
+    "id": 32
+  },
+  {
+    "Title": "28 Days Later",
+    "Director": "Danny Boyle",
+    "Genre": "Horror",
+    "Lead_Star": "Cillian Murphy",
+    "IMDb_Rating": 7.6,
+    "id": 33
+  },
+  {
+    "Title": "127 Hours",
+    "Director": "Danny Boyle",
+    "Genre": "Adventure",
+    "Lead_Star": "James Franco",
+    "IMDb_Rating": 7.6,
+    "id": 34
+  }
+]
