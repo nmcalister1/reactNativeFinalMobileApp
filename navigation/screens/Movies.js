@@ -1,5 +1,6 @@
 import * as React from 'react'
-import { Text, View, FlatList, StyleSheet, Animated, TouchableOpacity} from 'react-native';
+import { BounceIn, BounceOut, SlideInLeft, SlideOutRight } from 'react-native-reanimated';
+import { Text, View, FlatList, StyleSheet, TouchableOpacity, Animated} from 'react-native';
 import { fakeServer } from '../../fakeServer';
 import { GestureHandlerRootView, Swipeable } from 'react-native-gesture-handler';
 
@@ -68,11 +69,13 @@ export function Movies(){
     
     
     const renderItem = ({item}) => (
+        
         <GestureHandlerRootView key={item.id}>
             <Swipeable renderLeftActions={LeftActions} renderRightActions={(progress, dragX) => <RightActions progress={progress} dragX={dragX} onPress={() => onRightPressCallback(item.id)}/>}>
                 <Text style={{textAlign: 'center', fontSize: 30, padding: 5, borderBottomColor: '#DD4124', borderBottomWidth: 2 }}>{item.Title}</Text>
             </Swipeable>
         </GestureHandlerRootView>
+         
     )
     
     const ListFooterComponent = () => (
